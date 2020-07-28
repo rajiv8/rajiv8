@@ -1,7 +1,10 @@
 ### Hi there 👋
 Myself <strong>Rajeev Nayan</strong> , 
-I am persuing my BE in CSE from <strong>Sathyabama Institute of Science and Technolgy</strong>.
-- 🌱 I’m currently Exploring the Data Science and Machine Learning Field
+I am persuing my BE in CSE from <strong>Sathyabama Institute of Science and Technology</strong>.
+- 🌱 I’m currently Exploring and Learning the <strong>Data Science</strong> and <strong>Machine</strong> Learning Field.
+- 🌱 Also i'm working on improving mine <strong>Programming</strong> skills.
+- 📫 Contact me :
+    - <a href="mailto:rnayan516@gmail.com">E-mail<a>
 
 <!--
 **rajiv8/rajiv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
