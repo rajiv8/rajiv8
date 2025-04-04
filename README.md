@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajeev Nayan</h1>
 <h3 align="center">Trying to Figure out Technical Stuffs!!</h3>
-<p align="center"> I am a Student at Sathyabama Institute of Science and Technology, Currently in 2nd Year,</br>and, Pusuing Bachelor in Computer Science and Engineering.</p>
+<p align="center"> I am an Data Scientist with 1.5+ years of experience.</p>
 
 
 
