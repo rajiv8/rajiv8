@@ -69,7 +69,6 @@
 ### 📬 Reach Out to Me
 
 - 📧 [Email me here](mailto:rnayan516@gmail.com)
-- 🐦 [Twitter](https://twitter.com/_rajiv___)
 - 🔗 [LinkedIn](https://linkedin.com/in/rajeev-nayan-9abb361a0)
 - 📸 [Instagram](https://instagram.com/_rajiv_dubey_)
 
